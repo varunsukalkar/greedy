@@ -1,11 +1,26 @@
-# LeetCode
 
-This repository contains my solutions to LeetCode problems.
 
-Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
+# Greedy Algorithm Problems – Solutions
 
- ## Made by 
- - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
- - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
+Welcome to the **Greedy Algorithm Problems** repository! 🚀  
+This repository contains efficient and well-structured solutions to various problems based on the **Greedy Algorithm** approach. These problems are commonly asked in coding interviews, competitive programming contests, and academic assignments.
 
- Happy coding! 🚀
+## 📌 What is a Greedy Algorithm?
+
+A **Greedy Algorithm** is an approach where we make the locally optimal choice at each step, hoping that these choices lead to the globally optimal solution. It is often used when the problem has the **greedy-choice property** and **optimal substructure**.
+
+🙌 Contributions
+Contributions are welcome! You can:
+
+Add new greedy problems
+
+Improve existing solutions
+
+Add comments and explanations
+
+Fix bugs or optimize the code
+
+Just fork the repo, make your changes, and submit a pull request. 😊
+
+⭐ Support
+If you find this repository helpful, consider giving it a ⭐ and sharing it with your peers.
